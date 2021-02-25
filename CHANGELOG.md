@@ -73,6 +73,8 @@
 ## Blocksconvert
 
 * [ENHANCEMENT] Builder: add `-builder.timestamp-tolerance` option which may reduce block size by rounding timestamps to make difference whole seconds. #3891
+* [ENHANCEMENT] Scanner: add support for DynamoDB (v9 schema only). #3828
+
 
 ## 1.8.0 / 2021-03-24
 
